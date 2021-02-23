@@ -1,0 +1,17 @@
+footer {
+  width: auto;
+  height: 100px;
+  background-color: $site-blue;
+}
+
+.footer {
+  //background-color: red;
+  max-width: 980px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  padding-top: 40px;
+  font-family: Gill;
+  font-size: 18px;
+  color: $white;
+}
